@@ -6,6 +6,7 @@
     hola();
 ?>
 
+//Comentario añadido para el ejercicio 7
 <?php
 $nombre = "Maria";
 echo "¡Hola! Mi nombre es " . $nombre . "<br>";
